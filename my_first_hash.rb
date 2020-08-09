@@ -39,4 +39,5 @@ shipping_manifest["gun powder"] = 4
 
   # return the shipping_manifest hash below
 shipping_manifest
+# I didn't need to add puts
 end
