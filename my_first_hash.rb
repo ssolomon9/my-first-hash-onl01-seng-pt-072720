@@ -10,10 +10,9 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
    def the_manifest
-     old_fashioned_things = 
+     old_fashioned_things = {"whale bone corset" => 5, "porcelain vase" => 2, "oil painting" => 3}
     puts the_manifest
-  
-
+   end
 end
 
 def retrieval
